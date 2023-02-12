@@ -699,9 +699,9 @@
     "6281233386441-1610444998@g.us": {
       "id": "6281233386441-1610444998@g.us",
       "name": "Mafuunime.id",
-      "conversationTimestamp": 1676203083,
+      "conversationTimestamp": 1676203353,
       "subject": "Mafuunime.id",
-      "lastfetch": 1676202861282,
+      "lastfetch": 1676203353703,
       "metadata": {
         "id": "6281233386441-1610444998@g.us",
         "subject": "Mafuunime.id",
@@ -1652,7 +1652,7 @@
           "lastKnownPresence": "composing"
         }
       },
-      "unreadCount": 279,
+      "unreadCount": 280,
       "pin": null
     },
     "6285845761425@s.whatsapp.net": {
@@ -20817,6 +20817,50 @@
               "participant": "6285845761425@s.whatsapp.net",
               "quotedMessage": {
                 "conversation": "ini nih parah \nMana tahan cuyyy"
+              }
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281233386441-1610444998@g.us",
+          "fromMe": false,
+          "id": "21CB91BDD914891FE9A3D748E35B1C8F",
+          "participant": "6285845761425@s.whatsapp.net"
+        },
+        "messageTimestamp": 1676203353,
+        "pushName": "✌︎",
+        "message": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.15575-24/11877252_567606538623614_5384970740112518389_n.enc?ccb=11-4&oh=01_AdQ_DtEnYlws5gkeqoUTChDZOynnLx7UK3H44feufWcK6g&oe=6410435E&mms3=true",
+            "fileSha256": "OEEiL9mkq0roTNLsnmcdW+yOxYLZc0k2ejynvSXMyxU=",
+            "fileEncSha256": "O+czUJhVzSO8VxeIlEdZDUJX4kmIchIdCIVZbWo9GjY=",
+            "mediaKey": "eCT1jb7VQLK0AsPp9+/9LniAc/hwnr6qYHm7rAtutUo=",
+            "mimetype": "image/webp",
+            "height": 64,
+            "width": 64,
+            "directPath": "/v/t62.15575-24/11877252_567606538623614_5384970740112518389_n.enc?ccb=11-4&oh=01_AdQ_DtEnYlws5gkeqoUTChDZOynnLx7UK3H44feufWcK6g&oe=6410435E",
+            "fileLength": "61572",
+            "mediaKeyTimestamp": "1676121918",
+            "isAnimated": false,
+            "contextInfo": {
+              "stanzaId": "62B1C6C609666F2AA0BBBEE98FA4CD94",
+              "participant": "6281375105465@s.whatsapp.net",
+              "quotedMessage": {
+                "stickerMessage": {
+                  "url": "https://mmg.whatsapp.net/v/t62.15575-24/35246151_513466867658903_3360308381700794114_n.enc?ccb=11-4&oh=01_AdTxj-FMggyv7me29Ruw_KmxSozH_eX7ev5lbMhIXGZ3qA&oe=641045C8&mms3=true",
+                  "fileSha256": "L+KyRaPJd0p5A610E70QE4jVopaDP/X0aDqb7JWDvAw=",
+                  "fileEncSha256": "3ZU1xsJsIEe66NCV6kaNyyifY5YuAW2vJoj46sQGt0A=",
+                  "mediaKey": "7exGV2sU+SadupOLADz5jPEX7tCn9htk3UAQMyPGnNw=",
+                  "mimetype": "image/webp",
+                  "height": 64,
+                  "width": 64,
+                  "directPath": "/v/t62.15575-24/35246151_513466867658903_3360308381700794114_n.enc?ccb=11-4&oh=01_AdTxj-FMggyv7me29Ruw_KmxSozH_eX7ev5lbMhIXGZ3qA&oe=641045C8",
+                  "fileLength": "55206",
+                  "mediaKeyTimestamp": "1676203081",
+                  "isAnimated": false
+                }
               }
             }
           }
