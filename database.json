@@ -187,7 +187,7 @@
       "catexp": 0
     },
     "6282139456163@s.whatsapp.net": {
-      "exp": 175,
+      "exp": 179,
       "limit": 100,
       "lastclaim": 0,
       "registered": false,
@@ -309,7 +309,7 @@
       "lastmonthly": 0
     },
     "6285845761425@s.whatsapp.net": {
-      "exp": 60485,
+      "exp": 60496,
       "limit": 100,
       "lastclaim": 1676145674347,
       "registered": false,
@@ -679,7 +679,7 @@
       "catexp": 0
     },
     "6281375105465@s.whatsapp.net": {
-      "exp": 16,
+      "exp": 35,
       "limit": 100,
       "lastclaim": 0,
       "registered": false,
@@ -1667,7 +1667,7 @@
       "catexp": 0
     },
     "6287802788089@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 5,
       "limit": 100,
       "lastclaim": 0,
       "registered": false,
@@ -1724,7 +1724,9 @@
       "lastmining": 0,
       "lasthunt": 0,
       "lastweekly": 0,
-      "lastmonthly": 0
+      "lastmonthly": 0,
+      "petFood": 0,
+      "catexp": 0
     },
     "6281213680267@s.whatsapp.net": {
       "exp": 10,
@@ -1849,7 +1851,7 @@
       "catexp": 0
     },
     "6285896912103@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 8,
       "limit": 100,
       "lastclaim": 0,
       "registered": false,
@@ -1906,7 +1908,9 @@
       "lastmining": 0,
       "lasthunt": 0,
       "lastweekly": 0,
-      "lastmonthly": 0
+      "lastmonthly": 0,
+      "petFood": 0,
+      "catexp": 0
     }
   },
   "chats": {
